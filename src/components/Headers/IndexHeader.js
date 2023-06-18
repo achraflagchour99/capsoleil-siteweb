@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Container } from "reactstrap";
 import picture1 from "../../assets/img/wacvsdhj1.jpg";
 import picture2 from "../../assets/img/wacvsdhj2.jpg";
 import picture3 from "../../assets/img/wacvsdhj3.jpg";
